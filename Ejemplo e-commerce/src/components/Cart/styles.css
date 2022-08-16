@@ -1,0 +1,9 @@
+.mt-10{
+    margin-top: 100px;
+}
+
+.cart-items{
+    border-bottom: 1px solid rgb(99, 99, 99);
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+}
